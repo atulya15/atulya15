@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Atulya
 
-<!--
-**atulya15/atulya15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech Data Science student turning raw data into business-ready insights — SQL, dashboards, and analytics that hold up when someone asks "why."
 
-Here are some ideas to get you started:
+What I work on: translating ambiguous business questions into clear, data-driven answers — schema design, SQL analysis, BI dashboards, and the occasional ML pipeline when the problem calls for it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Currently building
+- **[Fan Engagement Analytics Platform](https://github.com/atulya15/-fan-engagement-platform)** — End-to-end gamification analytics on PostgreSQL: synthetic data generation, 8 SQL queries, Metabase dashboard
+- **[Football Performance Analytics](https://github.com/atulya15/football-performance-analytics)** — SQLite → PostgreSQL ETL with XML parsing, 12 SQL queries (joins, window functions, gaps-and-islands)
+- **[Industrial Sensor Anomaly Detection](https://github.com/atulya15/industrial-sensor-analytics-anomaly-detection)** — 1.6M-row anomaly detection pipeline, 0.82 F1 macro, deployed via Streamlit
+
+#### Tech I use
+`Python` `SQL (PostgreSQL · SQLite · MySQL)` `Metabase` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `LightGBM` `Docker` `Streamlit`
+
+#### Find me
+[LinkedIn](https://linkedin.com/in/atulya15) · atulya157@gmail.com
